@@ -1,4 +1,4 @@
-# Road Nirman
+# Road Nirman(This is our final work)
 
 **Road Nirman** is an end-to-end **smart road damage reporting and response system** aimed at municipal operations (demo context: **Solapur Municipal Corporation**). Citizens report damage with photos and location; a **Flask** service runs **Roboflow** pothole detection and computes **severity** and **EPDO-style** risk scores; **Supabase** stores complaints, auth, images, and audit events; **Flutter** delivers role-based dashboards from junior engineer through commissioner, plus contractors and verification (including **SSIM** repair checks).
 
